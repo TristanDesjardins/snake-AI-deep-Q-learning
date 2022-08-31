@@ -1,5 +1,5 @@
 # snake-AI-deep-Q-learning
-Snake AI with Deep Q learning (using Pytorch). It was a lil' challenge I gave myself. I did it in a few days. Enjoy! :blush:
+Snake AI with Deep Q learning (using Pytorch). It was a challenge I gave myself. I did it in a few days. Enjoy! :blush:
 
 ## Preview 
 
