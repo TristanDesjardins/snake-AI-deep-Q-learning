@@ -6,9 +6,7 @@ Snake AI with Deep Q learning (using Pytorch)
 Just run the 'agent.py' file to see our snake (agent) training within a few minutes! :blush: <br/>
 That should look a lil' something like this: 
 
-![snake_training](https://user-images.githubusercontent.com/62900180/187643756-457e874a-85a9-4fd9-bba5-f750499b2135.gif)
-
-![pong_first_gen](https://user-images.githubusercontent.com/62900180/187643873-4918fd6e-91d9-4dc2-b088-07fef7ae6ab1.gif)
+<img src="https://user-images.githubusercontent.com/62900180/187643756-457e874a-85a9-4fd9-bba5-f750499b2135.gif" height="400">
 
 ## Main files
 - agent.py : to train the AI (or agent) 
