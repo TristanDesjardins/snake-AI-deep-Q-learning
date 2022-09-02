@@ -2,11 +2,10 @@
 Snake AI using deep reinforcement learning (deep Q learning) with pytorch and pygame. It was a challenge I gave myself. Enjoy! :blush:
 
 ## Preview 
+training phase             |  After training
+:-------------------------:|:-------------------------:
+![snake_training](https://user-images.githubusercontent.com/62900180/188200059-ff49ed8b-711b-42bb-ab50-9f377f042d38.gif) | ![snake_trained](https://user-images.githubusercontent.com/62900180/188200076-e9532f77-b97a-4be6-8db5-6fb16e791a16.gif)
 
-Just run the 'agent.py' file to see our snake (agent) training within a few minutes! :blush: <br/>
-That should look a lil' something like this: 
-
-<img src="https://user-images.githubusercontent.com/62900180/187643756-457e874a-85a9-4fd9-bba5-f750499b2135.gif" height="400">
 
 ## Main files
 - agent.py : to train the AI (or agent) 
