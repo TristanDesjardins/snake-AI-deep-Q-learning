@@ -16,5 +16,6 @@ Snake AI using deep reinforcement learning (deep Q learning) with pytorch and py
 We've created a deep neural network (qnetwork.py) which is attached to our snake. At each step in the game, we feed the neural network a **game state** which gives our snake (agent) information about its environment. The game state is a vector of size 16 giving information about relative position of the fruit, the walls and the snake itself to the head of the snake. Each action leads to a different reward (hitting wall, eating fruit, hitting itself, nothing). We then optimize our qnetwork using gradient descent based on Bellman's equation. 
 
 ## Installation  
-
-- Python 3.8.10
+- Python 3.9.12
+- [pygame 2.1.2](https://www.pygame.org/news) : for the game engine 
+- [pytorch 0.4.1](https://pytorch.org/) : for the AI (Q Network) 
