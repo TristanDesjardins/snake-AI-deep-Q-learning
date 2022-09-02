@@ -1,4 +1,4 @@
-# snake-AI-deep-Q-learning
+# Deep reinforcment Q-Learning for Snake 
 Snake AI using deep reinforcement learning (deep Q learning) with pytorch and pygame. It was a challenge I gave myself. Enjoy! :blush:
 
 ## Preview 
